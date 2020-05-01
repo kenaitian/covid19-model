@@ -264,7 +264,7 @@ sphinxcontrib-jsmath=1.0.1=py_0
 sphinxcontrib-qthelp=1.0.2=py_0
 sphinxcontrib-serializinghtml=1.1.3=py_0
 sphinxcontrib-websupport=1.2.0=py_0
-spyder=4.0.1=py37_0
+spyder=3.3.4=py37_0
 spyder-kernels=1.8.1=py37_0
 sqlalchemy=1.3.13=py37he774522_0
 sqlite=3.31.1=he774522_0
