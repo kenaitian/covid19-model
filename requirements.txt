@@ -1,3 +1,10 @@
 voila
 voila-material
 bqplot
+ipympl
+ipyvolume
+pip-review
+plotly
+ipywidgets
+folium
+scipy
