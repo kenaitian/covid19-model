@@ -60,8 +60,8 @@ dask-core==2.11.0==py_0
 decorator==4.4.2==pypi_0
 defusedxml==0.6.0==py_0
 diff-match-patch==20181111==py_0
-# distributed==2.11.0==py37_0
-setuptools====46.1.3
+distributed==2.11.0==py37_0
+# setuptools====46.1.3
 docutils==0.16==py37_0
 entrypoints==0.3==py37_0
 et_xmlfile==1.0.1==py37_0
