@@ -8,3 +8,7 @@ plotly
 ipywidgets
 folium
 scipy
+nbformat
+pygments 
+voila-gridstack
+folium
