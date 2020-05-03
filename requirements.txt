@@ -12,3 +12,12 @@ nbformat
 pygments 
 voila-gridstack
 folium
+numpy 
+matplotlib 
+jupyterlab 
+pandas 
+squarify 
+bokeh 
+geoplotlib 
+seaborn 
+pyglet
