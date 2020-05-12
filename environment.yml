@@ -1,0 +1,33 @@
+name: voila
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipyvolume
+#  - nbinteract
+  - nbformat
+  - voila
+  - voila-material
+  - bqplot
+  - ipympl
+  - ipython
+#  - pip-review
+  - plotly
+  - ipywidgets
+  - folium
+  - scipy
+  - pygments 
+  - voila-gridstack
+  - folium
+  - numpy 
+  - matplotlib 
+  - jupyterlab 
+  - pandas 
+  - squarify 
+  - bokeh 
+#  - geoplotlib 
+  - seaborn 
+  - pyglet
+  - scipy
+  - xleaflet
+  - xeus-cling
