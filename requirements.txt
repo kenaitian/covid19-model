@@ -1,9 +1,11 @@
+ipyvolume
 nbinteract
 nbformat
 voila
 voila-material
 bqplot
 ipympl
+ipython
 ipyvolume
 pip-review
 plotly
@@ -22,3 +24,6 @@ bokeh
 geoplotlib 
 seaborn 
 pyglet
+scipy
+xleaflet
+xeus-cling
