@@ -4,4 +4,4 @@
 
 # web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True DataVisualization.ipynb --template=gridstack --theme=dark 
 
-web: web --port=$PORT --no-browser DataVisualization.html 
+web: DataVisualization.html --port=$PORT
