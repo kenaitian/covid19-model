@@ -4,14 +4,14 @@ channels:
   - conda-forge
 dependencies:
   - ipyvolume
-  - nbinteract
+#  - nbinteract
   - nbformat
   - voila
   - voila-material
   - bqplot
   - ipympl
   - ipython
-  - pip-review
+#  - pip-review
   - plotly
   - ipywidgets
   - folium
@@ -25,7 +25,7 @@ dependencies:
   - pandas 
   - squarify 
   - bokeh 
-  - geoplotlib 
+#  - geoplotlib 
   - seaborn 
   - pyglet
   - scipy

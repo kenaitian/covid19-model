@@ -1,5 +1,5 @@
 ipyvolume
-nbinteract
+# nbinteract
 nbformat
 voila
 voila-material
@@ -7,7 +7,7 @@ bqplot
 ipympl
 ipython
 ipyvolume
-pip-review
+# pip-review
 plotly
 ipywidgets
 folium
@@ -21,7 +21,7 @@ jupyterlab
 pandas 
 squarify 
 bokeh 
-geoplotlib 
+# geoplotlib 
 seaborn 
 pyglet
 scipy
