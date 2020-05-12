@@ -30,4 +30,4 @@ dependencies:
   - pyglet
   - scipy
 #  - xleaflet
-  - xeus-cling
+#  - xeus-cling

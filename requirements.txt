@@ -26,4 +26,4 @@ seaborn
 pyglet
 scipy
 # xleaflet
-xeus-cling
+# xeus-cling
