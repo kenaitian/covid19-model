@@ -29,5 +29,5 @@ dependencies:
   - seaborn 
   - pyglet
   - scipy
-  - xleaflet
+#  - xleaflet
   - xeus-cling
