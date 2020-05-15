@@ -3,6 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - appmode
   - ipyvolume
 #  - nbinteract
   - nbformat
