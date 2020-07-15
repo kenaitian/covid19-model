@@ -6,19 +6,24 @@ dependencies:
   - appmode
   - ipyvolume
 #  - nbinteract
+#  - pip-review
+#  - geoplotlib 
   - nbformat
   - voila
   - voila-material
+  - voila-gridstack
+  - voila-vuetify 
+  - voila-reveal 
   - bqplot
   - ipympl
   - ipython
-#  - pip-review
+  - ipyvolume
+  - pip-review
   - plotly
   - ipywidgets
   - folium
   - scipy
   - pygments 
-  - voila-gridstack
   - folium
   - numpy 
   - matplotlib 
@@ -26,9 +31,15 @@ dependencies:
   - pandas 
   - squarify 
   - bokeh 
-#  - geoplotlib 
+  - geoplotlib 
   - seaborn 
   - pyglet
   - scipy
+  - mysql 
+  - PyMySQL 
+  - ibm_db 
+  - mysql-connector-python-rf 
+  - weaviate-client
+  - bqplot
   - xleaflet
   - xeus-cling
