@@ -5,7 +5,7 @@ channels:
 dependencies:
   - appmode
   - ipyvolume
-  - nbinteract 
+#  - nbinteract 
   - nbformat
   - voila
   - voila-material
