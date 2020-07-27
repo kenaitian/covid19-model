@@ -11,7 +11,7 @@ bqplot
 ipympl
 ipython
 ipyvolume
-# pip-review
+pip-review
 plotly
 ipywidgets
 folium
@@ -24,14 +24,14 @@ jupyterlab
 pandas 
 squarify 
 bokeh 
-# geoplotlib 
+geoplotlib 
 seaborn 
 pyglet
 scipy
 mysql 
 PyMySQL 
 ibm_db 
-# mysql-connector-python-rf 
-# weaviate-client
+mysql-connector-python-rf 
+weaviate-client
 # xleaflet
 # xeus-cling

@@ -5,9 +5,7 @@ channels:
 dependencies:
   - appmode
   - ipyvolume
-#  - nbinteract
-#  - pip-review
-#  - geoplotlib 
+#  - nbinteract 
   - nbformat
   - voila
   - voila-material
@@ -18,7 +16,7 @@ dependencies:
   - ipympl
   - ipython
   - ipyvolume
-#  - pip-review
+  - pip-review
   - plotly
   - ipywidgets
   - folium
@@ -31,15 +29,15 @@ dependencies:
   - pandas 
   - squarify 
   - bokeh 
-#  - geoplotlib 
+  - geoplotlib 
   - seaborn 
   - pyglet
   - scipy
   - mysql 
   - PyMySQL 
   - ibm_db 
-#  - mysql-connector-python-rf 
-#  - weaviate-client
+  - mysql-connector-python-rf 
+  - weaviate-client
   - bqplot
   - xleaflet
   - xeus-cling
